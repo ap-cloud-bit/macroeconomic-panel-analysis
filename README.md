@@ -14,6 +14,7 @@ Using fixed‑effects econometric techniques, the analysis finds that **real int
 Crisis‑focused models reveal that the **COVID‑19 pandemic (2020)** produced a **clear and significant increase in unemployment worldwide**, while the effects of the **2008 Global Financial Crisis** were more complex and heterogeneous across countries. Interaction analysis further indicates that **monetary policy effectiveness did not change materially during the Global Financial Crisis**, suggesting that labor‑market disruptions during crises are driven primarily by non‑monetary factors.
 
 Overall, the findings highlight the importance of **institutional structure, labor‑market resilience, and crisis management policies** in shaping employment outcomes, offering insights relevant for policymakers, economists, and applied data analysts.
+
 ``
 
 ### 📊 A Cross‑Country Panel Data Study
