@@ -5,6 +5,17 @@
 # 🌍 Global Macroeconomic Panel Analysis
 ## Real Interest Rates, Economic Crises, and Unemployment
 
+## 🧭 Executive Summary
+
+This project presents a global panel data analysis examining the relationship between **real interest rates and unemployment** across countries over multiple decades, with a particular focus on **major economic crises**.
+
+Using fixed‑effects econometric techniques, the analysis finds that **real interest rates—both contemporaneous and lagged—do not exhibit a statistically significant direct effect on unemployment once country and year heterogeneity are accounted for**. Instead, unemployment dynamics are shown to be **largely structural**, driven by persistent country‑specific characteristics and global shocks rather than by monetary conditions alone.
+
+Crisis‑focused models reveal that the **COVID‑19 pandemic (2020)** produced a **clear and significant increase in unemployment worldwide**, while the effects of the **2008 Global Financial Crisis** were more complex and heterogeneous across countries. Interaction analysis further indicates that **monetary policy effectiveness did not change materially during the Global Financial Crisis**, suggesting that labor‑market disruptions during crises are driven primarily by non‑monetary factors.
+
+Overall, the findings highlight the importance of **institutional structure, labor‑market resilience, and crisis management policies** in shaping employment outcomes, offering insights relevant for policymakers, economists, and applied data analysts.
+``
+
 ### 📊 A Cross‑Country Panel Data Study
 
 ---
