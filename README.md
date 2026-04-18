@@ -114,6 +114,44 @@ Five professional visualizations support these insights:
 
 These plots motivate the use of fixed‑effects and crisis‑focused econometric models.
 
+## 📊 Key Visual Insights
+
+Below are selected figures highlighting the main empirical patterns discussed in the analysis.  
+All figures are generated in `02_analysis_and_regression.ipynb`.
+
+---
+
+### 🌍 Global Macroeconomic Trends (Average Across Countries)
+
+This figure shows the evolution of average unemployment rates and real interest rates over time, with major global shocks highlighted.
+
+![Global Macroeconomic Trends](figures/global_macroeconomic_trends.png)
+
+---
+
+### 🔴 Relationship Between Real Interest Rates and Unemployment
+
+A scatter plot with a fitted trend line illustrating the weak and heterogeneous relationship between real interest rates and unemployment across countries.
+
+![Interest Rates vs Unemployment](figures/interest_rates_vs_unemployment.png)
+
+---
+
+### 📉 Unemployment Distribution Across Crisis Periods
+
+Distribution of unemployment rates before 2008, during the post‑2008 period, and after the COVID‑19 shock, highlighting structural breaks.
+
+![Unemployment Distribution Across Crisis Periods](figures/unemployment_distribution_crisis_periods.png)
+
+---
+
+### 🔗 Correlation Matrix (Main Regression Variables)
+
+Correlation structure among the main variables used in regression analysis.
+
+![Correlation Matrix](figures/correlation_matrix_main_variables.png)
+``
+
 ## Econometric Methodology
 The empirical strategy follows a layered approach:
 - Baseline Models
