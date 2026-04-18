@@ -38,9 +38,7 @@ macroeconomic-panel-analysis/
 
 ---
 
-``
-
-## 📓 Project Notebooks
+## 📓 Project Notebook
 The analysis is organized into two Jupyter notebooks, each with a clear and distinct purpose.
 
 1️⃣ Data Cleaning and Merging
@@ -109,7 +107,7 @@ Unemployment distributions across crisis periods
 
 These plots motivate the use of fixed‑effects and crisis‑focused econometric models.
 
-## 📐 Econometric Methodology
+## Econometric Methodology
 The empirical strategy follows a layered approach:
 Baseline Models
 
