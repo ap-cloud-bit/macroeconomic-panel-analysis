@@ -38,7 +38,7 @@ macroeconomic-panel-analysis/
 
 ---
 
-## 📓 Project Notebook
+## 📓 **Project Notebook**
 The analysis is organized into two Jupyter notebooks, each with a clear and distinct purpose.
 
 1️⃣ Data Cleaning and Merging
