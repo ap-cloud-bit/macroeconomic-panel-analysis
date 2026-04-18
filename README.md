@@ -43,7 +43,9 @@ macroeconomic-panel-analysis/
 The analysis is organized into two Jupyter notebooks, each with a clear and distinct purpose.
 
 1️⃣ Data Cleaning and Merging
-Path: notebooks/01_data_cleaning_and_merging.ipynb
+📓 **Notebook:**
+[01_data_cleaning_and_merging.ipynb](notebooks/01_data_cleaning_and_merging.ipynb)
+
 This notebook covers:
 
 Loading data from multiple macroeconomic sources
@@ -55,10 +57,14 @@ Exporting the final cleaned dataset used for all subsequent analysis
 ---
 
 ## 📦 Output dataset:
-data/processed/final_panel_dataset.csv
+📦 **Final cleaned dataset:**
+[data/processed/final_panel_dataset.csv](data/processed/final_panel_dataset.csv)
 
 2️⃣ Analysis and Regression Results
-Path: notebooks/02_analysis_and_regression.ipynb
+
+📓 **Notebook:**
+[02_analysis_and_regression.ipynb](notebooks/02_analysis_and_regression.ipynb)
+
 This notebook covers:
 
 Exploratory data analysis and professional visualizations
