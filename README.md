@@ -160,16 +160,17 @@ All regressions use cluster‑robust standard errors at the country level, consi
 ---
 
 ## 👤 Author
-AWAIS SHAKEEL PASHA
-Macroeconomic & Data Analysis Project
-Islamabad, Pakistan
+
+- AWAIS SHAKEEL PASHA
+- Macroeconomic & Data Analysis Project
+- Islamabad, Pakistan
 
 ---
 
 ## 📌 Notes
 This repository is intended for:
 
-Academic coursework
-Applied econometrics practice
-Portfolio demonstration
-Interview and review discussions
+- Academic coursework
+- Applied econometrics practice
+- Portfolio demonstration
+- Interview and review discussions
