@@ -150,6 +150,7 @@ Distribution of unemployment rates before 2008, during the post‑2008 period, a
 Correlation structure among the main variables used in regression analysis.
 
 ![Correlation Matrix](figures/correlation_matrix_main_variables.png)
+
 ``
 
 ## Econometric Methodology
