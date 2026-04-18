@@ -36,6 +36,8 @@ macroeconomic-panel-analysis/
 ├── README.md
 └── requirements.txt
 
+---
+
 ## 📓 Project Notebooks
 The analysis is organized into two Jupyter notebooks, each with a clear and distinct purpose.
 
@@ -48,6 +50,8 @@ Cleaning and standardizing unemployment, interest rate, GDP, and exchange rate d
 Reshaping datasets into a country‑year panel format
 Merging all datasets into a unified panel
 Exporting the final cleaned dataset used for all subsequent analysis
+
+---
 
 ## 📦 Output dataset:
 data/processed/final_panel_dataset.csv
@@ -84,6 +88,8 @@ Cross‑sectional country datasets were merged appropriately
 
 The final result is a clean, harmonized country‑year panel dataset suitable for econometric analysis.
 
+---
+
 ## 🔍 Exploratory Analysis
 Exploratory analysis reveals strong heterogeneity in unemployment outcomes across countries and over time. Key findings include:
 
@@ -116,6 +122,8 @@ Crisis interaction model examining whether monetary transmission changes during 
 
 All regressions use cluster‑robust standard errors at the country level, consistent with best practices in applied panel data econometrics.
 
+---
+
 ## 📈 Key Results
 
 Real interest rates do not exhibit a statistically significant direct or lagged effect on unemployment once fixed effects are included.
@@ -125,10 +133,13 @@ The 2008 Financial Crisis shows weaker and more complex labor market effects.
 Crisis interaction results indicate that monetary policy effectiveness did not change significantly during the Global Financial Crisis.
 Structural country‑specific factors dominate unemployment dynamics.
 
+---
 
 ## ✅ Conclusions
 Overall, the findings indicate that global unemployment dynamics are driven primarily by structural country characteristics and major economic shocks, rather than by interest rate movements alone. While monetary policy remains an essential stabilization tool, its direct influence on unemployment appears indirect, heterogeneous, and context‑dependent in a global panel setting.
 The COVID‑19 pandemic stands out as a uniquely severe labor market shock, while the effects of the 2008 crisis appear to have propagated through more complex institutional and structural channels. These results highlight the importance of labor market resilience, institutional quality, and complementary fiscal and structural policies alongside monetary intervention.
+
+---
 
 ## 🛠️ Tools and Libraries
 
@@ -139,11 +150,14 @@ matplotlib
 seaborn
 statsmodels
 
+---
 
 ## 👤 Author
 AWAIS SHAKEEL PASHA
 Macroeconomic & Data Analysis Project
 Islamabad, Pakistan
+
+---
 
 ## 📌 Notes
 This repository is intended for:
