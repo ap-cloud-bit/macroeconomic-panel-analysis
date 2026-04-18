@@ -94,28 +94,28 @@ The final result is a clean, harmonized country‑year panel dataset suitable fo
 ## 🔍 Exploratory Analysis
 Exploratory analysis reveals strong heterogeneity in unemployment outcomes across countries and over time. Key findings include:
 
-Persistent structural differences in unemployment levels across countries
-Smooth global averages masking substantial country‑specific variation
-Clear labor market disruptions during major global shocks
+- Persistent structural differences in unemployment levels across countries
+- Smooth global averages masking substantial country‑specific variation
+- Clear labor market disruptions during major global shocks
 
 Five professional visualizations support these insights:
 
-Global unemployment and real interest rate trends
-Interest rate–unemployment scatter with regression line
-Country‑level unemployment trajectories
-GDP versus unemployment relationship
-Unemployment distributions across crisis periods
+- Global unemployment and real interest rate trends
+- Interest rate–unemployment scatter with regression line
+- Country‑level unemployment trajectories
+- GDP versus unemployment relationship
+- Unemployment distributions across crisis periods
 
 These plots motivate the use of fixed‑effects and crisis‑focused econometric models.
 
 ## Econometric Methodology
 The empirical strategy follows a layered approach:
-Baseline Models
+- Baseline Models
 
-Pooled OLS as a benchmark specification
+- Pooled OLS as a benchmark specification
 Two‑way fixed effects regression controlling for country and year heterogeneity
 
-Robustness and Crisis Models
+- Robustness and Crisis Models
 
 Lagged interest rate model to test delayed monetary transmission
 Crisis dummy models isolating the 2008 and 2020 shocks
@@ -144,12 +144,12 @@ All regressions use cluster‑robust standard errors at the country level, consi
 
 ## 🛠️ Tools and Libraries
 
-Python
-pandas
-numpy
-matplotlib
-seaborn
-statsmodels
+- Python
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- statsmodels
 
 ---
 
