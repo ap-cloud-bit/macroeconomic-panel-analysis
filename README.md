@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Econometrics](https://img.shields.io/badge/Econometrics-Panel%20Data-green)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 # 🌍 Global Macroeconomic Panel Analysis
 ## Real Interest Rates, Economic Crises, and Unemployment
 
