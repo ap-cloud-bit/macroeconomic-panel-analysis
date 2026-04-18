@@ -36,6 +36,7 @@ macroeconomic-panel-analysis/
 ├── README.md
 └── requirements.txt
 
+```
 ---
 
 ## 📓 **Project Notebook**
@@ -157,7 +158,6 @@ AWAIS SHAKEEL PASHA
 Macroeconomic & Data Analysis Project
 Islamabad, Pakistan
 
-``
 ---
 
 ## 📌 Notes
